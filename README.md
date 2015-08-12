@@ -1,2 +1,1 @@
-# vvave.github.io
-Project Wave
+# Project WAVE
